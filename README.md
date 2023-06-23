@@ -1,5 +1,5 @@
 # XOR-Encryption-Breaker
-XOR Encrypt text using the encryption mode or break XOR encryption using the break mode. No it does not decrypt by giving it a key. Why would you want his? Use break mode.
+XOR Encrypt text using the encryption mode or break XOR encryption using the break mode. 
 
 Break works by iterating through potential keys and performing statistical analysis for the best match. If the output looks close but not quite there the issue may be the case of the key. Ex. 'a' vs 'A'
 
