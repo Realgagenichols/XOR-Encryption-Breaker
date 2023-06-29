@@ -1,6 +1,3 @@
-Certainly! Here's an example of a README file for your XOR encryption program:
-
-```
 # XOR Encryption Program
 
 This program provides functionalities for XOR encryption and decryption. It allows you to encrypt and decrypt text or files using a given key, as well as break XOR encryption when the key is unknown.
@@ -50,6 +47,4 @@ python xor_cipher.py break encrypted.bin
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
 
-You can copy this content and save it as a `README.md` file in your GitHub repository. Feel free to modify the content according to your needs.
