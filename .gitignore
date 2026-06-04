@@ -6,3 +6,9 @@ __pycache__/
 *.encrypted
 *.decrypted
 .DS_Store
+
+# AI development artifacts (kept locally, not published)
+tasks/
+SPEC.md
+changes/
+CLAUDE.md
